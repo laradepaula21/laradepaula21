@@ -1,7 +1,7 @@
 <br>
 <br> 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=50&duration=2000&pause=200&color=AFE1AF&center=true&vCenter=true&random=false&width=1000&lines=Hello%2C+my+name+is+Lara;;welcome%3A)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=50&duration=4000&&color=AFE1AF&center=true&vCenter=true&random=false&width=1000&lines=Hello%2C+my+name+is+Lara;)](https://git.io/typing-svg)
 
 <br>
 <br>
